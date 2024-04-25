@@ -1,4 +1,4 @@
-# FUTMOB - Where every goal has a story!
+futmobfut# FUTMOB - Where every goal has a story!
 
 Welcome to FUTMOB! This app is your ultimate destination for staying updated on the latest standings and fixtures of the top 5 football leagues in the world.
 
