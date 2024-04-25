@@ -42,6 +42,3 @@ We welcome contributions from the community to improve FUTMOB! To contribute, pl
 
 We'd love to hear your feedback on FUTMOB! If you have any suggestions for improvements or encounter any issues, please open an issue on GitHub or reach out to us directly.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
