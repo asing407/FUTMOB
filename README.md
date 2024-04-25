@@ -2,6 +2,8 @@ futmobfut# FUTMOB - Where every goal has a story!
 
 Welcome to FUTMOB! This app is your ultimate destination for staying updated on the latest standings and fixtures of the top 5 football leagues in the world.
 
+https://github.com/asing407/FUTMOB/assets/144586980/6bbd0153-2feb-47c8-b6ea-494c3aabb8e8
+
 ## Features
 
 - View the standings of the Premier League, La Liga, Serie A, Bundesliga, and Ligue 1.
